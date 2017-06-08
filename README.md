@@ -2,7 +2,7 @@
 Word2vec papers &amp; tutorial
 
 ## Reference
-<Title - Link>
+\<Title - Link>
 
 Distributed Representations of Words and Phrases and their Compositionality - http://web2.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf
 
