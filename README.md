@@ -12,3 +12,4 @@ Distributed Representations of Sentences and Documents - https://cs.stanford.edu
 
 word2vec Parameter Learning Explained - https://arxiv.org/abs/1411.2738
 
+hierarchical output layer(Hugo Larochelle NLP lecture) - https://www.youtube.com/watch?v=B95LTf2rVWM
