@@ -12,3 +12,5 @@ Distributed Representations of Sentences and Documents - https://cs.stanford.edu
 
 word2vec Parameter Learning Explained - https://arxiv.org/abs/1411.2738
 
+Distributed Representations of Sentences and Documents - https://cs.stanford.edu/~quocle/paragraph_vector.pdf
+
