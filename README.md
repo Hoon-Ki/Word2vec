@@ -19,5 +19,3 @@ Word2vec papers &amp; tutorial
 7. Hierarchical Probabilistic Neural Network Language Model - http://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf
 
 8. A Scalable Hierarchical Distributed Language Model - https://pdfs.semanticscholar.org/1005/645c05585c2042e3410daeed638b55e2474d.pdf
-
-9. Distributed Representations of Sentences and Documents - https://cs.stanford.edu/~quocle/paragraph_vector.pdf
