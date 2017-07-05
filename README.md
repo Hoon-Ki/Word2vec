@@ -21,3 +21,5 @@ Word2vec papers &amp; tutorial
 8. A Scalable Hierarchical Distributed Language Model - https://pdfs.semanticscholar.org/1005/645c05585c2042e3410daeed638b55e2474d.pdf
 
 9. bag of words and ngram model - https://en.wikipedia.org/wiki/Bag-of-words_model
+
+10. Understanding Word2Vec and Paragraph2Vec - http://piyushbhardwaj.github.io/documents/w2v_p2vupdates.pdf
